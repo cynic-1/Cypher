@@ -1,0 +1,6 @@
+client.py 客户端代码
+server.py 服务器代码
+public_key.pem 服务器公钥
+private_key.pem 服务器私钥
+test.py 没用
+先启动server.py 再启动client.py
